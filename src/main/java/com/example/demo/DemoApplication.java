@@ -15,7 +15,7 @@ public class DemoApplication {
     }
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public String hello() {
-        return "hello ! world4";
+        return "hello ! world5";
     }
 
 }
